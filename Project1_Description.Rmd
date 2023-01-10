@@ -19,6 +19,8 @@ Although it might be tempting to try to create more than one graphic for your bl
 
 Your goal should be to create a new and compelling graphic for your data, rather than to reproduce a graph that has already been created on the same data.   
 
+**The purpose of this mini-project is to demonstrate your ability to visualize data in a creative and informative manner, and to explain your conclusions. Since the project is intended to measure what you have learned, it must be completed without help from anyone else. Do not discuss the project with, or get help from classmates, tutors, other students, or anyone else, other than the instructor. Giving or receiving unauthorized assistance will be considered an honor code violation.**
+
 ## Writing the report
 
 * Use the project 1 template on GitHub.    
